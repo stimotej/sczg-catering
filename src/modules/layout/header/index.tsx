@@ -36,7 +36,7 @@ export default async function Header() {
           className="flex items-center gap-4"
         >
           <Image
-            src="/logo.webp"
+            src="/catering/logo.webp"
             className="w-14 sm:w-20 h-auto"
             alt="Studentski Centar Zagreb logo"
             width={64}
